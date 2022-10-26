@@ -1,3 +1,7 @@
+# FORK of Illumina Genome Pipeline 
+
+This pipeline was used to generate a genome for SARS-CoV-2 and will be helpful for when Biological data comes in from Bento
+
 # SARS-CoV-2 Consensus Genome Pipeline
 
 This pipeline generates consensus SARS-CoV-2 genomes from fastq
